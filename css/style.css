@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Molengo', sans-serif;
+  font-size: 1.5rem;
+  color: #565d47;
+}
+
+h1 {
+  width: 30%;
+  margin: 0 auto;
+  font-family: 'Rock Salt', cursive;
+  font-size: 3.75rem;
+  color: #222831;
+}
+
+h2 {
+  font-family: 'Rajdhani', sans-serif;
+  color: #222831;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Rajdhani', sans-serif;
+  color: #222831;
+}
+
+span {
+  text-decoration: line-through;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #7d5e2a;
+  text-decoration: none;
+  margin: auto 10px;
+}
+
+a:hover {
+  color: #d7c79e;
+}
+
+hr {
+  margin: 100px auto;
+  border: dotted #d7c79e 6px;
+  border-bottom: none;
+  width: 60%;
+}
+
+.one {
+  font-family: 'Rajdhani', sans-serif;
+  margin: 0;
+  font-size: 1.5625rem;
+}
+
+.top {
+  background-color: #b49c73;
+  position: relative;
+  padding-top: 110px;
+}
+
+.middle {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom {
+  background-color: #b49c73;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-size: 1.2rem;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: white;
+  font-size: 1rem;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.btn {
+  background-color: #b49c73;
+  border-radius: 5px;
+  border: 1px solid #a0855b;
+  display: inline-block;
+  cursor: pointer;
+  color: #7d5e2a;
+  font-family: 'Molengo', sans-serif;
+  font-size: 1rem;
+  padding: 16px 22px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #a0855b;
+  margin-top: 50px;
+}
+
+.btn:hover {
+  background-color: #d7c79e;
+  color: #7d5e2a;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.t-cloud {
+  position: absolute;
+  right: 34.375rem;
+  top: 5rem;
+  width: 10%
+}
+
+.b-cloud {
+  position: absolute;
+  left: 34.375rem;
+  width: 10%
+}
+
+.propic {
+  width: 15%;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.chillie {
+  width: 25%;
+  float: right;
+  margin-left: 10px;
+}
+
+/**********************************************MIXED UP ERROR*************************************************/
+/*
+.t-cloud {
+  position: absolute;
+  top: 30px;
+  right: 600px;
+}
+
+.b-cloud {
+  position: absolute;
+}
+
+
+.mount {
+  position: absolute;
+}
+/**************************************************TREECOLOR BOX POSITION*********************************/
+/*
+.top{
+  background-color: #649d66;
+  height: 200px;
+  width: 200px;
+  position:absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.middle{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+
+.bottom{
+  background-color: yellow;
+  height: 200px;
+  width:200px;
+}
+*/
