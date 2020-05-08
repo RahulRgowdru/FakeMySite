@@ -34,7 +34,7 @@ p {
 }
 
 a {
-  color: #7d5e2a;
+  color: 915b4a;
   text-decoration: none;
   margin: auto 10px;
 }
@@ -101,7 +101,7 @@ hr {
   border: 1px solid #a0855b;
   display: inline-block;
   cursor: pointer;
-  color: #7d5e2a;
+  color: #915b4a;
   font-family: 'Molengo', sans-serif;
   font-size: 1rem;
   padding: 16px 22px;
@@ -112,7 +112,7 @@ hr {
 
 .btn:hover {
   background-color: #d7c79e;
-  color: #7d5e2a;
+  color: #915b4a;
 }
 
 .btn:active {
@@ -154,45 +154,3 @@ hr {
   margin-left: 10px;
 }
 
-/**********************************************MIXED UP ERROR*************************************************/
-/*
-.t-cloud {
-  position: absolute;
-  top: 30px;
-  right: 600px;
-}
-
-.b-cloud {
-  position: absolute;
-}
-
-
-.mount {
-  position: absolute;
-}
-/**************************************************TREECOLOR BOX POSITION*********************************/
-/*
-.top{
-  background-color: #649d66;
-  height: 200px;
-  width: 200px;
-  position:absolute;
-  left: 200px;
-  top: 200px;
-}
-
-.middle{
-  background-color: red;
-  height: 200px;
-  width: 200px;
-  position: absolute;
-  left: 400px;
-  top: 400px;
-}
-
-.bottom{
-  background-color: yellow;
-  height: 200px;
-  width:200px;
-}
-*/
